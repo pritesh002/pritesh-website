@@ -3,3 +3,8 @@ body {
   background-color: lightgray;
   color: black;
 }
+
+/* Styles for the new input field */
+input[type="text"] {
+  /* Add your styles here */
+}
